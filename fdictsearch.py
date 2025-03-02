@@ -11,7 +11,7 @@ def dictwrite(filename):#creates oxford dictionary (180,000 words)
     #    #print(newdict[i])
     return newdict
 
-newdict = dictwrite('dictionary.txt')
+#newdict = dictwrite('dictionary.txt')
 
 def elimwords(hand,dictionary):#eliminates all words that are not possible on any board
     if '*' in hand:
