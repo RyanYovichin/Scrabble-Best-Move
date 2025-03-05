@@ -155,8 +155,8 @@ def scoreword(words, word, pos, dir, board, tilepoints):#scores given word
         '''
     return score
 
-from fdictsearch import dictwrite
-d1 = dictwrite('dictionary.txt')
+#from fdictsearch import dictwrite
+#d1 = dictwrite('dictionary.txt')
 
 #w1[0][0] = "s"
 #w2 = addword(w2,"SMART",[7,7],"d",d1)

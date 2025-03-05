@@ -1,5 +1,5 @@
 def fixdict(dictionary):
-    from fdictsearch import dictwrite
+    from functions.fdictsearch import dictwrite
     d1 = dictwrite(dictionary)
     d2 = []
     for i in range(len(d1)):# for over dictionary
