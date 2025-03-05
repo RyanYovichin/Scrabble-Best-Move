@@ -1,5 +1,5 @@
 import pygame
-from fgamecreate import gstart
+from functions.fgamecreate import gstart
 
 pygame.init()# ig necessary
 
